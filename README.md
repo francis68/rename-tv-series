@@ -10,5 +10,7 @@ This pattern, [S]\d{2}[E]\d{2}, searches for the season and episode numbers in t
 all other bloatware.
 
 Example:
+
 Original = Game.of.Thrones.S07E05.720p.WEB.h264-TBS[rarbg]
+
 What we want = S07E05
