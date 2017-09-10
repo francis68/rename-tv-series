@@ -6,7 +6,7 @@ Call this file in the terminal with the following arguments: python renamefiles.
 
 Enter the folder name of the folder you want to rename the contents of.
 
-This pattern, [S]\d{2}[E]\d{2}, searches for the season and episode numbers in the name of the file and will remove
+This pattern, [sS]\d{2}[eE]\d{2}, searches for the season and episode numbers in the name of the file and will remove
 all other bloatware.
 
 Example:
